@@ -1,6 +1,7 @@
 ---
 layout: post
 title: With nice formatting too...
+description: 这是一段摘要文字，这是一段摘要文字，这是一段摘要文字
 ---
 
 
