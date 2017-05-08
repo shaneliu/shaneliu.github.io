@@ -1,7 +1,7 @@
 ---
-layout： post
-title： 动态二维码生成器/小程序
-decription： 小范围验证动态二维码小程序是否可行
+layout: post
+title: 动态二维码生成器/小程序
+description: 小范围验证动态二维码小程序是否可行
 ---
 
 
