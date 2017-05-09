@@ -3,8 +3,8 @@ title: 勰门歪道
 SEOTitle: 勰门歪道 | Shane Blog      #你的博客 | Your Blog
 header-img: img/home-bg.jpg
 email: lshane1985@gmail.com
-description: "Cool Blog"
-keyword: ""
+description: "这里是 Shane 的个人博客"
+keyword: "刘勰, Shane, 勰门歪道, 博客, 个人网站, 互联网, 产品, 管理, 用户增长"
 url: "http://liuxie63.com"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog' "/huxblog-boilerplate"
 
@@ -16,7 +16,7 @@ weibo_username:     shane2u
 zhihu_username:     shane.liu
 #github_username:    huxpro
 #twitter_username:  huxpro
-#facebook_username:  Shane Liu
+facebook_username:  Shane Liu
 
 
 
@@ -47,7 +47,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: lshane1985    #_your_disqus_short_name_
+disqus_username: Shane Liu    #_your_disqus_short_name_
 
 # Duoshuo settings
 #duoshuo_username: huxblog
