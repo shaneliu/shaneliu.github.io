@@ -68,7 +68,7 @@ ba_track_id: 765688f085c30c29a244139d363d8ae2        #4cc1f2d8f3067386cc5cdb626a
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "读书，写字 | 假设，实验，总结 | 如此往复就是完美的生活"
+sidebar-about-description: "读书，写字 </br> 假设，实验，总结 </br> 如此往复就是完美的生活"
 sidebar-avatar: /img/blog-avatar.jpeg #http://ojpjap8gl.bkt.clouddn.com/2017/05/09/149432436506303196.jpeg   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
