@@ -4,8 +4,7 @@ title:      "拒绝焦虑，重新认识学习"
 subtitle:   " \"《精益创业》读书笔记\""
 date:       2017-05-07 12:00:00
 author:     "Shane"
-header-img: "http://ojpjap8gl.bkt.clouddn.com/2017/05/09/149433913777936281.jpg
-"
+header-img: "img/How-to-learn-Enlgish-fast.png"
 tags:
     - 方法论
     - 读书笔记
