@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "简单说下，我们是如何通过增长模型获取用户的"
-subtitle:   " \"构造公号低成本用户增长的案例\""
+subtitle:   " \"如何构造低成本用户增长\""
 date:       2017-05-09 12:00:00
 author:     "Shane"
 header-img: "img/growth-hack.jpg"
