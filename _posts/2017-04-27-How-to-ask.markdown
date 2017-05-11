@@ -6,8 +6,8 @@ date:       2017-04-27 12:00:00
 author:     "Shane"
 header-img: "img/reading.png"
 tags:
-    - 方法论
     - 读书笔记
+    - 产品经理
 ---
 
 
