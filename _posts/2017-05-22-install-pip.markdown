@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "mac安装pip工具"
+title:      "mac 安装 pip 工具"
 subtitle:   " \"使用 brew 安装 pip 报错的解决方案\""
 date:       2017-05-22 12:00:00
 author:     "iamshane"
@@ -14,7 +14,7 @@ tags:
 >pip 是 python 常用的包管理器， Mac 自带 python ，但是没有自带 pip 工具，使用 brew 安装 pip 时报错如下：
 
 ```
-➜  ~brew install pip
+➜  ~ brew install pip
 
 Error: No available formula with the name "pip"
 Homebrew provides pip via: `brew install python`. However you will then
@@ -27,7 +27,7 @@ pip via the instructions at:
 提示需要使用brew安装python，然后会连pip一起安装，目前系统自带的python是2.7.10，已经够我使用了，不准备再安装别的版本的python，否则还要进行版本切换，所以换种方式安装pip，安装如下：
 
 ```
-$ sudo easy_install pip
+➜  ~ sudo easy_install pip
 ```
 
 安装成功！
