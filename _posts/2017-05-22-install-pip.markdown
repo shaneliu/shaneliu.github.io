@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "mac安装pip工具"
-subtitle:   " \"使用brew报错的解决方案\""
+subtitle:   " \"使用 brew 安装 pip 报错的解决方案\""
 date:       2017-05-22 12:00:00
 author:     "iamshane"
 header-img: "img/install-pip.jpg"
