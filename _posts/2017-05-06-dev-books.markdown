@@ -3,7 +3,7 @@ layout:     post
 title:      "知乎排行网"
 subtitle:   " \"SEO项目策划笔记\""
 date:       2017-05-06 12:00:00
-author:     "Shane"
+author:     "iamshane"
 header-img: "img/post-bg-js-module.jpg"
 tags:
     - SEO

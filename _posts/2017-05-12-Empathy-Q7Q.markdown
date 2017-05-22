@@ -3,7 +3,7 @@ layout:     post
 title:      "同理心是天赋还是技能，有何方法提高？"
 subtitle:   " \"俞军的一个产品经理面试题\""
 date:       2017-05-12 12:00:00
-author:     "Shane"
+author:     "iamshane"
 header-img: "img/empathy.jpg"
 tags:
     - 面试解析
