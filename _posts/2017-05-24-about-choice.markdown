@@ -2,9 +2,9 @@
 layout:     post
 title:      "无所不能的硅谷钢铁侠"
 subtitle:   " \"成为时间的朋友\""
-date:       2017-05-24 12:00:00
+date:       2017-05-24 08:00:00
 author:     "iamshane"
-header-img: "img/How-to-learn-Enlgish-fast.png"
+header-img: "img/tesla.jpg"
 tags:
     - 读书笔记
     - 特斯拉
