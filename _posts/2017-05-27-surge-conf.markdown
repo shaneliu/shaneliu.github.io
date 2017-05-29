@@ -13,6 +13,7 @@ tags:
     - 教程
     - ShadowsocksX-NG
     - 配置
+    - manual
 --- 
 
 
