@@ -4,7 +4,7 @@ title:      "Sublime Text 3 Mac 指南"
 subtitle:   " \"最好的编辑器\""
 date:       2017-05-28 12:00:00
 author:     "iamshane"
-header-img: "img/writing.png"
+header-img: "img/writing.jpg"
 tags:
     - Mac
     - Sublime Text 3
@@ -14,7 +14,7 @@ tags:
     - manual
 --- 
 
->本文转自[kpman  code](https://code.kpman.cc/2014/10/14/sublime-text-3-mac-%E6%8C%87%E5%8D%97/)的博客，作为查询快捷键的备忘
+>本文转自 [kpman \| code](https://code.kpman.cc/2014/10/14/sublime-text-3-mac-%E6%8C%87%E5%8D%97/) 的博客，作为查询快捷键的备忘
 
 本篇是我根据自己使用习惯所做的快捷键整理，使用sublime text这套编辑器已经有2年之余，本身是个快捷键爱好者，对于发掘好用的快捷键乐此不疲，因此整理常用的快捷键在这篇，针对的是mac使用者所使用者快捷键，希望对各位有帮助。
 
