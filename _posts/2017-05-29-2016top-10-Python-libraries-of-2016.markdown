@@ -1,10 +1,9 @@
-
 ---
 layout:     post
 title:      "Top 10 Python libraries of 2016"
-subtitle:   " \"\""
+subtitle:   " \"from tryo labs\""
 date:       2017-05-29 12:00:00
-author:     "iamshane"
+author:     "tryo labs"
 header-img: "img/python.png"
 tags:
     - Python
