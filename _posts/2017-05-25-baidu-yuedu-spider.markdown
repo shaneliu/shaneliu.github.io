@@ -84,7 +84,7 @@ get 到这些信息后，就可以利用 requests 获取 json 数据，把数据
 
 至此整个过程就结束了，完整的代码如下（因为隐私原因隐藏了 cookie 信息）。
 
-```
+```python
 #coding: utf8
 
 import requests
@@ -138,6 +138,7 @@ def crawlContent():
 
 if __name__ == '__main__':
     crawlContent()
+
 ```
 
 ---

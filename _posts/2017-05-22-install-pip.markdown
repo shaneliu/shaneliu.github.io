@@ -13,7 +13,7 @@ tags:
 
 >pip 是 python 常用的包管理器， Mac 自带 python ，但是没有自带 pip 工具，使用 brew 安装 pip 时报错如下：
 
-```
+```zsh
 ➜  ~ brew install pip
 
 Error: No available formula with the name "pip"
@@ -26,7 +26,7 @@ pip via the instructions at:
 
 提示需要使用brew安装python，然后会连pip一起安装，目前系统自带的python是2.7.10，已经够我使用了，不准备再安装别的版本的python，否则还要进行版本切换，所以换种方式安装pip，安装如下：
 
-```
+```zsh
 ➜  ~ sudo easy_install pip
 ```
 
@@ -36,7 +36,7 @@ __备注：__
 
 安装成功后运行`pip list`可能有一下告警：
 
-```
+```zsh
 ➜  ~ pip list
 
 DEPRECATION: The default format will switch to columns in the future. You can use --format=(legacy|columns) (or define a format=(legacy|columns) in your pip.conf under the [list] section) to disable this warning.
