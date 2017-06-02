@@ -87,6 +87,9 @@ tags:
 </p>
 <p><center>
 <img src='https://wenku.baidu.com/content/087a349249649b6649d74747?m=86a77b516143dec517a94896273fe913&type=pic&src=b2b2f12206f71d5cfb5bcd787f062157.jpeg' r='ext_display_none' width='452' height='330'>
+
+<img src='https://wenku.baidu.com/content/087a349249649b6649d74747?m=86a77b516143dec517a94896273fe913&type=pic&src=b2b2f12206f71d5cfb5bcd787f062157.jpeg'>
+
 <span><center>
 图1-1　即使你从未到过英国希思罗机场，但站在候机大厅内对于要去哪里也总能一目了然
 </center></span>
@@ -100,7 +103,6 @@ tags:
 <p><center>
 <img src='https://wenku.baidu.com/content/087a349249649b6649d74747?m=86a77b516143dec517a94896273fe913&type=pic&src=0d66a46c6a68bd5869862ed8b5dcc004.jpeg' r='ext_display_none' width='528' height='704'>
 
-https://wenku.baidu.com/content/087a349249649b6649d74747?m=86a77b516143dec517a94896273fe913&type=pic&src=0d66a46c6a68bd5869862ed8b5dcc004.jpeg
 
 <span><center>
 图1-2　Amazon网站上，普通顾客不会无意中单击Associates链接，这相当于Amazon的“员工区”入口
