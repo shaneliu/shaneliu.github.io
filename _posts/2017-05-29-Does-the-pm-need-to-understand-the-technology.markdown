@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "产品经理需要懂技术吗？"
+title:      "对产品经理而言，为什么要求懂技术？"
 subtitle:   " \"Does the pm need to understand the developing?\""
 date:       2017-05-29 14:00:00
 author:     "iamshane"
