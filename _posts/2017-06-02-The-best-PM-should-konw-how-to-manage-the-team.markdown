@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "产品经理最核心的能力是管理能力"
+title:      "如果 PM 的核心能力只能是一个，那我会选管理能力"
 subtitle:   " \"The best PM should konw how to manage the team\""
 date:       2017-06-02 12:00:00
 author:     "iamshane"
