@@ -3,7 +3,7 @@ layout:     post
 title:      "Python 清空文件内容"
 subtitle:   " \"How to delete only the content of file in python\""
 date:       2017-05-24 12:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/python-logo.jpg"
 tags:
     - Python

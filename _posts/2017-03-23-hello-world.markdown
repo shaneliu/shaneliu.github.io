@@ -3,7 +3,7 @@ layout:     post
 title:      "Welcome to 勰门歪道"
 subtitle:   " \"Hello World, Hello Mars\""
 date:       2017-03-01 12:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/home-bg-o.jpg"
 tags:
     - 生活

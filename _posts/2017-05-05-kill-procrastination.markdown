@@ -3,7 +3,7 @@ layout:     post
 title:      "这本书，竟让我戒掉了拖延症"
 subtitle:   " \"《稀缺：我们是如何陷入贫穷与忙碌的》读书笔记\""
 date:       2017-05-05 12:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/QQ20160118-8.png"
 tags:
     - 产品经理

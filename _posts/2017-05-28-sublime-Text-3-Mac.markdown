@@ -3,7 +3,7 @@ layout:     post
 title:      "Sublime Text 3 Mac 指南"
 subtitle:   " \"最好的编辑器\""
 date:       2017-05-28 12:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/writing.jpg"
 tags:
     - Mac

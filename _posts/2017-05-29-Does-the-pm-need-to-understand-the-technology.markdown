@@ -3,7 +3,7 @@ layout:     post
 title:      "对产品经理而言，为什么要求懂技术？"
 subtitle:   " \"Does the pm need to understand the developing?\""
 date:       2017-05-29 14:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/hello-world.jpg"
 tags:
     - 产品经理

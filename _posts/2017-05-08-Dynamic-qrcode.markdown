@@ -3,7 +3,7 @@ layout:     post
 title:      "动态二维码生成器"
 subtitle:   " \"生成动态二维码的小程序项目\""
 date:       2017-05-08 12:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/post-bg-js-module.jpg"
 tags:
     - 产品需求

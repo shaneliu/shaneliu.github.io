@@ -3,7 +3,7 @@ layout:     post
 title:      "Surge for Mac 初体验与教程"
 subtitle:   " \"科学上网之路\""
 date:       2017-05-27 12:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/surge-4-mac.jpg"
 tags:
     - Mac

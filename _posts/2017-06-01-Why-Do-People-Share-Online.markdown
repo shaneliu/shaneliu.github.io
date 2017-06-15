@@ -3,7 +3,7 @@ layout:     post
 title:      "什么样的文章用户愿意转发？"
 subtitle:   " \"Why do People Share Online ？\""
 date:       2017-06-01 12:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/reading-on-iphone.jpg"
 tags:
     - 产品经理

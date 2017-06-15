@@ -3,7 +3,7 @@ layout:     post
 title:      "我们为什么读书？| 推荐三本书"
 subtitle:   " \"值得一看的好书，阅读就是快乐\""
 date:       2017-05-26 12:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/book-list.jpg"
 tags:
     - 读书笔记

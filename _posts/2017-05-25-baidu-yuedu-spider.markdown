@@ -3,7 +3,7 @@ layout:     post
 title:      "使用 Python 抓取百度阅读"
 subtitle:   " \"创新公司:皮克斯的启示 | epub mobi 下载\""
 date:       2017-05-25 12:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/feiwuhuanyouji.jpg"
 tags:
     - Python

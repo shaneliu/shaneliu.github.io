@@ -3,7 +3,7 @@ layout:     post
 title:      "如果 PM 的核心能力只能是一个，那我会选管理能力"
 subtitle:   " \"The best PM should konw how to manage the team\""
 date:       2017-06-02 12:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/bianshen.jpg"
 tags:
     - 产品经理

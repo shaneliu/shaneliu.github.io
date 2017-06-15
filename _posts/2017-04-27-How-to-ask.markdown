@@ -3,7 +3,7 @@ layout:     post
 title:      "产品经理深入浅出 | 学会提问"
 subtitle:   " \"冯唐 《小通鉴》读书笔记\""
 date:       2017-04-27 12:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/reading.png"
 tags:
     - 读书笔记

@@ -3,7 +3,7 @@ layout:     post
 title:      "作为产品经理，你每天会观察哪些数据？"
 subtitle:   " \"How does the pm do the data analysis?\""
 date:       2017-05-30 12:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/Data-analysis.png"
 tags:
     - 产品经理

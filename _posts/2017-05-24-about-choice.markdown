@@ -3,7 +3,7 @@ layout:     post
 title:      "洞见了未来，就能获得成功吗"
 subtitle:   " \"成为时间的朋友\""
 date:       2017-05-24 12:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/musk.jpg"
 tags:
     - 读书笔记

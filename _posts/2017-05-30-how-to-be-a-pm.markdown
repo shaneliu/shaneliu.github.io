@@ -3,7 +3,7 @@ layout:     post
 title:      "想成为产品经理，该怎么做？读哪些书？"
 subtitle:   " \"How to be a pm?\""
 date:       2017-05-30 11:00:00
-author:     "iamshane"
+author:     "Shane"
 header-img: "img/the-most-beautiful-bookstore.jpg"
 tags:
     - 产品经理
