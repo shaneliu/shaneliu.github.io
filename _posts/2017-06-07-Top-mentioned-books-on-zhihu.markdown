@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "知乎里推荐最多的产品经理书籍 | 书单推荐"
-subtitle:   " \"Top mentioned books on zhihu.come\""
+subtitle:   " \"Top mentioned books on zhihu.com\""
 date:       2017-06-07 12:00:00
 author:     "Shane"
 header-img: "img/Recommended.jpg"
@@ -28,7 +28,7 @@ tags:
 
 ### 快捷跳转
 
-|1:5|6:10|11:15|15:20|
+|NO. 1:5|No. 6:10|No. 11:15|No. 15:20|
 |:---:|:---:|:---:|:---:|
 |[人人都是产品经理](#anchor1)|[定位](#anchor6)|[影响力](#anchor11)|[用户体验度量](#anchor16)|
 |[结网](#anchor2)|[引爆点](#anchor7)|[精益创业](#anchor12)|[游戏改变世界](#anchor17)|
