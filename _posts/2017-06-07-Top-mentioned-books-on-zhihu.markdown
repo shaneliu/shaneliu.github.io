@@ -24,6 +24,8 @@ tags:
 
 <img src="/img/in-post/Top-mentioned-books-on-zhihu/Top-mentioned-books-on-zhihu.png" width="100%">
 
+
+
 ---
 
 ### 快捷跳转
@@ -58,6 +60,7 @@ tags:
 - 为初中级产品经理量身定制，大量延伸阅读构成从业资料库。
 
 <p><a class="btn btn-warning" target="_blank" href="https://www.amazon.cn/gp/product/B00NWSS7YI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00NWSS7YI&linkCode=as2&tag=iamshane-23">More on Amazon.cn</a></p>
+
 
 <p id="anchor2"></p>
 ---
