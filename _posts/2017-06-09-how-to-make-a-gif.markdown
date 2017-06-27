@@ -16,7 +16,7 @@ tags:
 
 之前在别人的公号里看到下面这样的 GIF 动图，感觉动态效果还是蛮不错的。然后就心心念念想自己也学习 PS 做一个。
 
-<img src="/img/in-post/How-to-make-a-gif/shanetalk.gif">
+<img src="/img/in-post/how-to-make-a-gif/shanetalk.gif">
 
 一开始总觉得 PS 太复杂了，学习的事情一拖再拖，终于趁今晚状态好把这个事情做完了，顺便和大家分享一下。
 
@@ -41,13 +41,13 @@ tags:
 
 启动 PS 新增一个空白文件（ 如图1 ），然后在已采集的素材中挑选一张合适的，直接拖拽导入 PS ；同时单击底部的「建立视频时间轴」（ 如图 2 ）完成 GIF 的导入，导入后的结果如图 3 。
 
-<img src="/img/in-post/How-to-make-a-gif/create.png" width="100%">
+<img src="/img/in-post/how-to-make-a-gif/create.png" width="100%">
 <center>图 1</center>
 
-<img src="/img/in-post/How-to-make-a-gif/create-timeline.png" width="100%">
+<img src="/img/in-post/how-to-make-a-gif/create-timeline.png" width="100%">
 <center>图 2</center>
 
-<img src="/img/in-post/How-to-make-a-gif/setting-gif.png" width="100%">
+<img src="/img/in-post/how-to-make-a-gif/setting-gif.png" width="100%">
 <center>图 3</center>
 
 ---
@@ -62,13 +62,13 @@ tags:
 
 字体设置完成之后，需要将白色矩形图层和字体图层进行合并，选中两个图层后右键选择合并图层（ 如图 5 ）；合并后点击左侧的魔棒工具（ 如图 6 ），选择字体部分，选中后按「删除」，删掉字体部分，现在就得到最终的效果了（ 如图 7 ）。
 
-<img src="/img/in-post/How-to-make-a-gif/hebing.png" width="100%">
+<img src="/img/in-post/how-to-make-a-gif/hebing.png" width="100%">
 <center>图 4</center>
 
-<img src="/img/in-post/How-to-make-a-gif/moshubang.png" width="100%">
+<img src="/img/in-post/how-to-make-a-gif/moshubang.png" width="100%">
 <center>图 5</center>
 
-<img src="/img/in-post/How-to-make-a-gif/result.png" width="100%">
+<img src="/img/in-post/how-to-make-a-gif/result.png" width="100%">
 <center>图 6</center>
 
 ---
@@ -79,5 +79,5 @@ tags:
 
 至此，一个完整的 GIF 动图就生成了。
 
-<img src="/img/in-post/How-to-make-a-gif/shanetalk.gif">
+<img src="/img/in-post/how-to-make-a-gif/shanetalk.gif">
 
