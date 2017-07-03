@@ -4,7 +4,7 @@ title:      "PM 书单 ：《习惯的力量》 | 不是鸡汤文 X 3 "
 subtitle:   " \"关于用户转化、团队管理、裂变传播的启示\""
 date:       2017-06-03 12:00:00
 author:     "Shane"
-header-img: "img/habit.png"
+header-img: "img/Material-design.jpg"
 tags:
     - 读书笔记
     - 习惯的力量
