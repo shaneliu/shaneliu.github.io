@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "产品经理怎么改需求，研发不会砍死你"
+title:      "产品经理怎么改需求，才不会被研发\"砍死\"？"
 subtitle:   " \"How to handle the feature change\""
 date:       2017-06-12 12:00:00
 author:     "蔡沁宇"
@@ -8,7 +8,7 @@ header-img: "img/Material-design.jpg"
 tags:
     - 产品经理
     - 项目管理
---- 
+---  
 
 
 听说因为随便改需求，某公司产品经理被愤怒的程序猿砍成重伤，至今昏迷不醒！
