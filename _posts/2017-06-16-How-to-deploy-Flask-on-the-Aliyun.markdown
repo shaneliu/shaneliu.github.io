@@ -4,7 +4,7 @@ title:      "阿里云上部署 Flask 最小的应用"
 subtitle:   " \"How to deploy Flask on the Aliyun ？\""
 date:       2017-06-16 12:00:00
 author:     "Shane"
-header-img: "img/coding.jpg"
+header-img: "img/Material-design.jpg"
 tags:
     - 阿里云
     - Python

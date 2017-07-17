@@ -4,7 +4,7 @@ title:      "Ubuntu 下安裝 Oh-my-zsh"
 subtitle:   " \"How to install Oh-my-zsh on Ubuntu\""
 date:       2017-06-14 12:00:00
 author:     "Shane"
-header-img: "img/coding.jpg"
+header-img: "img/Material-design.jpg"
 tags:
     - Ubuntu
     - 阿里云

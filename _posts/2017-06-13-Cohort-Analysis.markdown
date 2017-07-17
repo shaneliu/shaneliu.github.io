@@ -4,7 +4,7 @@ title:      "一种留存分析的方案：Cohort Analysis"
 subtitle:   " \"Cohort Analysis\""
 date:       2017-06-13 12:00:00
 author:     "Shane"
-header-img: "img/coding.jpg"
+header-img: "img/Material-design.jpg"
 tags:
     - 产品经理
     - 留存率
