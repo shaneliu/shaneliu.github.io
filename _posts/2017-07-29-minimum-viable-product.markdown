@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "MVP 在实际工作中是否真的可行？"
+title:      "MVP 在实际工作中如何应用？"
 subtitle:   " \"Minimum Viable Product\""
 date:       2017-06-18 12:00:00
 author:     "Shane"
