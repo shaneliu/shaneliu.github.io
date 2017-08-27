@@ -11,6 +11,7 @@ tags:
     - Ubuntu
     - uWSGI
     - Nginx
+    - Flask
 ---
 
 
