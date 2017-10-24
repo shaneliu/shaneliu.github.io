@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "SKU、SPU的区别"
-subtitle:   " \SKU VS SPU"\""
+title:      "SKU与SPU的区别"
+subtitle:   " \"SKU VS SPU\""
 date:       2017-09-01 12:00:00
 author:     "Shane"
 header-img: "img/Material-design.jpg"
