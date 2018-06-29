@@ -4,7 +4,7 @@ title:      "除了在朋友圈晒照，旅行还有别的用处吗？"
 subtitle:   " \"《东京一年》\""
 date:       2018-06-28 12:00:00
 author:     "脆皮小熊猫"
-header-img: "img/A-year-in-Tokyo.png"
+header-img: "img/hello-tokyo.png"
 tags:
     - 读书笔记
     - 旅游
